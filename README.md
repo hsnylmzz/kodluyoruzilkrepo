@@ -20,4 +20,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 ## License
 [MIT](https://choosealicense.com/).
+### Markdown ile oluşturduğum dosyanın resmi:
+![Ekran görüntüsü 2022-04-01 145936](https://user-images.githubusercontent.com/33355796/161259394-25a2e773-365a-4ce7-9be5-7b1caae85ad9.png)
 
